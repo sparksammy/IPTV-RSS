@@ -1,2 +1,2 @@
-# IPTV-RSS
-RSS version of obliqik/iptv/
+# IPTV-XML
+XML version of obliqik/iptv/
